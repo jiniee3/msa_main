@@ -15,3 +15,4 @@ spring:
     url: jdbc:mysql://${DB_HOST}:${DB_PORT}/msa_sample
     username: ${DB_USER}
     password: ${DB_PASS}
+
